@@ -1,3 +1,6 @@
+//link to the explanation 
+// https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/2538058/EASY-4ms-C%2B%2B-Solution
+
 #include <iostream>
 #include <vector>
 #include <stack>
